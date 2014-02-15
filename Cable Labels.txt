@@ -1,0 +1,18 @@
+T=Talon
+V=Victor
+T=Toro
+W=Window Motor
+C=CIM
+T1-FL
+T2-FR
+T3-BR
+T4-BL
+V5-TL
+V6-TR
+T7-SL
+T8-SR
+V9-WM
+I1-SU
+I2-SL
+A1-GR
+A2-GT
